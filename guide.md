@@ -14,6 +14,16 @@ Este recomandat să citiți acest Wiki în totalitate, deoarece prezintă foarte
 În cazul în care ai nevoie de ajutor pentru instalarea jocului și a platformei **RAGE Multiplayer**, accesează secțiunea **[Cum să joci?](./how-to-play)**.  
 :::
 
+## Benefiicile unui jucator incepator
+
+Conturile jucatorilor incepatori primesc de acum urmatoarele avantaje:
+
+| Avantaj      | Explicatie |
+| :-----------: | :-----------: |
+| **Job Boost 25% pana la 25 ore jucate** | Job Boost ofera un venit mai marit in cadrul [Jobs]([https://ucp.liberty.mp/shop](https://wiki.liberty.mp/jobs/#informatii-generale-joburi)) |
+| **Subscriptie de tip Platinum** | Timp de 7 zile de la inregistrarea contului, incepatorii vor beneficia de <PremiumSubscription type='platinum' />. Accesul la comanda /pc este limitat pana in momentul in care jucatorul acumuleaza 5 ore jucate |
+| **Pistol si 100 gloante** | La nivel 5 jucatorii primesc un Pistol si 100 gloante precum si instructiuni despre utilizarea acestora |
+
 ## General și scurt dicționar
 
 Scurt dicționar:
@@ -37,9 +47,9 @@ Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște î
 
 Nu uita să introduci codul de referral (recomandare/afiliere) la sfârșitul tutorial-ului sau, mai târziu, din meniul [Profil & setări](./general/profile-and-settings.md#cum-vizualizez-profilul-și-setările), categoria **Referrals** - butonul *Activate*.
 
-Recomandarea noastră este să frecventați **joburile** despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Panto**, primit cadou temporar pentru **50 payday-uri**, o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
+Recomandarea noastră este să frecventați **joburile** despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Weeny Issi JCW**, primit cadou temporar pentru **50 payday-uri**, o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
 
-Recomandarea noastră este să frecventați **joburile** oferite de server, despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește suma de bani din cont. Aceasta este una dintre multiplele surse de venit. De asemenea, vehiculul **Panto**, primit ca si cadou temporar (pentru **50 de payday-uri**),  o să vă ajute mult cu deplasarea, dar și la anumite joburi (de exemplu: **Electrician**). Este bine de știu că va fi nevoie să folosiți telefonul destul de des, atât pentru funcția de GPS sau banking (aplicația **Bank**), cât și pentru multe alte sisteme.
+Recomandarea noastră este să frecventați **joburile** oferite de server, despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește suma de bani din cont. Aceasta este una dintre multiplele surse de venit. De asemenea, vehiculul **Weeny Issi JCW**, primit ca si cadou temporar (pentru **50 de payday-uri**),  o să vă ajute mult cu deplasarea, dar și la anumite joburi (de exemplu: **Electrician**). Este bine de știu că va fi nevoie să folosiți telefonul destul de des, atât pentru funcția de GPS sau banking (aplicația **Bank**), cât și pentru multe alte sisteme.
 
 ::: tip
 Este recomandat să ai mereu la tine mâncare și apă. Le poți cumpăra dintr-un magazin de tip Market 24/7. Dacă nu te hrănești sau hidratezi, nu o să mai poți alerga sau sări, fapt ce-ți va împiedica activitățile pe care dorești să le desfășori.
